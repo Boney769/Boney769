@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently learning how to use GitHub Copilot!
+
 <!--
 **Boney769/Boney769** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
